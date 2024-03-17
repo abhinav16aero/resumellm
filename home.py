@@ -4,7 +4,7 @@ from streamlit_lottie import st_lottie
 from streamlit_option_menu import option_menu
 
 # Importing custom modules for different pages
-from interview import ai_interviewer_page
+# from interview import ai_interviewer_page
 from resume import resume_enhancer_page
 
 # Setting the page configuration
@@ -116,7 +116,7 @@ def welcome_page():
 
 if page == "Welcome Page":
     welcome_page()
-elif page == "AI Interviewer":
-    ai_interviewer_page()
+# elif page == "AI Interviewer":
+#     ai_interviewer_page()
 elif page == "Resume Enhancer":
     resume_enhancer_page()
