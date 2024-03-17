@@ -22,7 +22,7 @@ To run locally, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/abhinav16aero/resumellm.git
    ```
 
 2. **Navigate to AI_hackathon Directory:**
